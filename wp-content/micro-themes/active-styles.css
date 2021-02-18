@@ -1,0 +1,20 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Geral ===================== */
+
+/** Geral >> Post 7 uagb rm title wrap **/
+#post-7 .uagb-rm__title-wrap {
+	
+}
+
+/** Geral >> Titulo & Descrição - Cardápio home **/
+#post-7 .cardapio-home .uagb-rm__title-wrap {
+	width: 270px !important;
+}
+
+/** Geral >> Preço Cardápio Home **/
+#post-7 .cardapio-home .uagb-rm__price {
+	width: 80px !important;
+}
+
