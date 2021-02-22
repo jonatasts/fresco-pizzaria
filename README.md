@@ -1,5 +1,9 @@
-# Fresco Pizzaria
+## Fresco Pizzaria ##
 
-# Barra do Topo e de Rodapé
+# Barra do Topo e de Rodapé ✅
 
 # Home - Destaques ✅
+
+# Contato ✅
+
+# Post - Almoço Executivo ✅
