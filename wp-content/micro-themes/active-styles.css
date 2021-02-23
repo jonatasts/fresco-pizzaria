@@ -30,3 +30,13 @@
 	border-top-width: 1px !important;
 }
 
+
+/*= Galeria =================== */
+
+/** Galeria >> Link Hover Zoom - Galeria Post **/
+.blocks-gallery-item > figure>:hover {
+	transform: scale(1.03, 1.03) !important;
+	-ms-transform: scale(1.03) !important;
+	-webkit-transform: scale(1.03) !important;
+}
+
