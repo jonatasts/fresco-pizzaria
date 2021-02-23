@@ -67,3 +67,12 @@
 	-webkit-transform: scale(1.03) !important;
 }
 
+
+/*= Carrousel ================= */
+
+/** Carrousel >> Arrows do Carrousel - Quem Somos **/
+#id-622 [type="button"] {
+	margin-right: -20px !important;
+	margin-left: -20px !important;
+}
+
