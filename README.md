@@ -4,8 +4,12 @@
 
 # Home - Destaques ✅
 
-# Contato ✅
+# Cardápio ✅
+
+# Quem Somos ⛔
+
+# Notícias ✅
 
 # Posts - Almoço Executivo | Receita de spaghetti a Guanabara | Cardápio Fit ✅
 
-# Notícias ✅
+# Contato ✅

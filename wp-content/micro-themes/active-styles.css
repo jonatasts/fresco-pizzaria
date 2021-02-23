@@ -19,6 +19,33 @@
 }
 
 
+/*= Conteúdo ================= */
+
+/** Conteúdo >> Preco cardapio uagb rm price **/
+.preco-cardapio .uagb-rm__price {
+	font-size: 25px !important;
+	line-height: 25px !important;
+	width: 86px !important;
+	margin-right: 10px !important;
+}
+
+/** Conteúdo >> Título & Descrição - Cardápio **/
+.preco-cardapio .uagb-rm__desc {
+	width: 460px !important;
+	min-width: 0 !important;
+}
+
+/** Conteúdo >> Ícone Barra Preto - Cardápio **/
+.uagb-block-a96557dc .uagb-ifb-img-src {
+	margin-top: -20px !important;
+}
+
+/** Conteúdo >> Bloco de Itens - Cardápio **/
+#post-20 .uagb-block-c0b6624b {
+	margin-top: -8px !important;
+}
+
+
 /*= Rodapé =================== */
 
 /** Rodapé >> Barra de Rodapé **/
