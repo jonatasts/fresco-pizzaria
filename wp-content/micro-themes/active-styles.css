@@ -21,18 +21,12 @@
 
 /*= Conteúdo ================= */
 
-/** Conteúdo >> Preco cardapio uagb rm price **/
+/** Conteúdo >> Preco - Cardápio **/
 .preco-cardapio .uagb-rm__price {
 	font-size: 25px !important;
 	line-height: 25px !important;
 	width: 86px !important;
 	margin-right: 10px !important;
-}
-
-/** Conteúdo >> Título & Descrição - Cardápio **/
-.preco-cardapio .uagb-rm__desc {
-	width: 460px !important;
-	min-width: 0 !important;
 }
 
 /** Conteúdo >> Ícone Barra Preto - Cardápio **/
@@ -68,11 +62,53 @@
 }
 
 
-/*= Carrousel ================= */
+/*( Desktop grande )*/
+@media (min-width: 1200px) {
 
-/** Carrousel >> Arrows do Carrousel - Quem Somos **/
-#id-622 [type="button"] {
-	margin-right: -20px !important;
-	margin-left: -20px !important;
+	/*= Conteúdo ================= */
+
+	/** Conteúdo >> Título & Cardápio - Cardápio **/
+	.preco-cardapio.uagb-block-e2c7c56f .uagb-rm__title-wrap {
+	
+}
+
+
+}
+
+
+/*( Desktop e tablet )*/
+@media (min-width: 768px) and (max-width: 979px) {
+
+	/*= Conteúdo ================= */
+
+	/** Conteúdo >> Título & Cardápio - Cardápio **/
+	.preco-cardapio.uagb-block-e2c7c56f .uagb-rm__title-wrap {
+	
+}
+
+
+}
+
+
+/*( Celular )*/
+@media (max-width: 480px) {
+
+	/*= Geral ===================== */
+
+	/** Geral >> Titulo & Descrição - Cardápio home **/
+	#post-7 .cardapio-home .uagb-rm__title-wrap {
+	width: 200px !important;
+}
+
+
+	/*= Carousel ================== */
+
+	/** Carousel >> Carousel Slider - Quem somos **/
+	#id-622 {
+	max-width: 88% !important;
+	margin-left: 23px !important;
+}
+
+
 }
 
