@@ -3,11 +3,6 @@
 
 /*= Geral ===================== */
 
-/** Geral >> Post 7 uagb rm title wrap **/
-#post-7 .uagb-rm__title-wrap {
-	
-}
-
 /** Geral >> Titulo & Descrição - Cardápio home **/
 #post-7 .cardapio-home .uagb-rm__title-wrap {
 	width: 270px !important;
@@ -107,6 +102,11 @@
 	#id-622 {
 	max-width: 88% !important;
 	margin-left: 23px !important;
+}
+
+	/** Carousel >> Carousel Slider (Altura da Section) - Quem Somos **/
+	#id-622 > .owl-stage-outer {
+	max-height: 160px !important;
 }
 
 
