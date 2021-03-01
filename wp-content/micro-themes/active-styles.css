@@ -68,6 +68,14 @@
 }
 
 
+	/*= Carousel ================== */
+
+	/** Carousel >> Titulo Principal_Destaques - Home **/
+	.uagb-block-8818645a .uagb-ifb-content {
+	margin-top: -170px !important;
+}
+
+
 }
 
 
@@ -79,6 +87,20 @@
 	/** Conteúdo >> Título & Cardápio - Cardápio **/
 	.preco-cardapio.uagb-block-e2c7c56f .uagb-rm__title-wrap {
 	
+}
+
+
+}
+
+
+/*( Tablet & celular )*/
+@media (max-width: 767px) {
+
+	/*= Carousel ================== */
+
+	/** Carousel >> Titulo Principal_Destaques - Home **/
+	.uagb-block-8818645a .uagb-ifb-content {
+	margin-top: -180px !important;
 }
 
 
